@@ -1,4 +1,4 @@
-## Kimberly H -> Checkpoint 4 Creating Tableau Story
+## Checkpoint 4 DA Final Project -> Creating A Tableau Story
 
 I spent somewhere between 50 - 60 hours on this project.  It is not perfect, there are plenty of things I would like to continue to work on.
 
@@ -39,12 +39,12 @@ Graph -> Map with average rating from each country -> province of beans
 
 Fixing Map -> 5 unknown values
 
+![Fixing Unkown Values in Tableau](https://github.com/codinglikeagirl42/Checkpoint4FP/blob/main/Fixing%20Unkowns%20CP4.png)  
+1. Click on the unknown.  2. I choose Edit Locations and a new pop up window opens as seen below.
 
-Click on the unknown  2. I choose Edit Locations
-
-
-I looked up each missing location and entered it, leaving just one -> 
-Blend and I added a note with Avg Rating.  
+![Editing Locations Manually in Tableau](https://github.com/codinglikeagirl42/Checkpoint4FP/blob/main/Edit%20Location%20Checkpoint%204.png)
+I looked up each missing location and manually entered them, leaving just one -> 
+Blend and I added a note with Avg Rating which I caculated in a seperate goole worksheet.  
 
 
 ### Bar Ingredients
@@ -66,7 +66,7 @@ How does this affect the rating?
 Word cloud of all the tastes represtended -> combined count of all four tastes
 Link to github repo.
 
-[Word Clouds in Tableau: Quick & Easy. | by Parul Pandey | Towards Data Science](https://towardsdatascience.com/word-clouds-in-tableau-quick-easy-e71519cf507a)  
+[Word Clouds in Tableau: Quick & Easy.](https://towardsdatascience.com/word-clouds-in-tableau-quick-easy-e71519cf507a)  
 [Create your own color palette in tableau public.](https://www.reddit.com/r/tableau/comments/mvinug/creating_custom_color_palette_in_tableau_public/)  
 [TPS File Extension - What is it? How to open a TPS file?](https://filext.com/file-extension/TPS)  
 [I used coolors.co to design the palette and get the hex codes.](https://coolors.co/palette/f6e0e4-d6bd91-ce6716-fef8ef-94480f-f59623-5e1c29-ecddfd-4d089b-93394a)  
