@@ -1,4 +1,4 @@
-### Kimberly H -> Checkpoint 4 Creating Tableau Story
+## Kimberly H -> Checkpoint 4 Creating Tableau Story
 
 I spent somewhere between 50 - 60 hours on this project.  It is not perfect, there are plenty of things I would like to continue to work on.
 
@@ -15,20 +15,19 @@ I spent somewhere between 50 - 60 hours on this project.  It is not perfect, the
 [Shading & Backgrounds in Tableau Part 2: Dashboards – graphhopper](https://graphhopperblog.wordpress.com/2019/10/17/shading-backgrounds-in-tableau-part-2-dashboards/#:~:text=From%20the%20Dashboard%20menu%2C%20go,on%20top%20of%20the%20dashboard)
 
 
-### Outline:
+## Outline:
 
-#### Cover Page
+### Cover Page
 From Bean to Bar:
 What goes into making the best chocolate bars in the world?
 
-#### Photo Credit:
-
+**Photo Credit:**  
 Great site for royalty free images -> must include a link to give credit  
 https://www.vecteezy.com/photo/2636184-chocolate-and-cocoa-beans-with-cocoa-on-a-black-background  
 [How to add a hyperlink in tableau](https://www.thedataschool.co.uk/paul-hunt/insert-a-hyperlink)
 
 
-#### Introduction
+### Introduction
 
 By analyzing the [Chocolate Bar 2020](https://www.kaggle.com/soroushghaderi/chocolate-bar-2020) database we were able to gain insight and a broader understanding of what goes into making a superb bar, from beans to ingredients to flavor profiles that rank the best. And what ranks the worst in order to avoid.
 Graph -> Map with average rating from each country -> province of beans 
@@ -48,21 +47,21 @@ I looked up each missing location and entered it, leaving just one ->
 Blend and I added a note with Avg Rating.  
 
 
-#### Bar Ingredients
+### Bar Ingredients
 
 Average Bar rating based on ingredients used -> can filter by # of ingredients
 
 
-#### Taste profiles
+### Taste profiles
 
 First Taste -> Second Taste -> Third Taste
 
 
-#### The Fourth Taste
+### The Fourth Taste
 
 How does this affect the rating?
 
-#### Conclusion
+### Conclusion
 
 Word cloud of all the tastes represtended -> combined count of all four tastes
 Link to github repo.
